@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Camisa",
+        "price": 100,
+        "discount": 30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Maletin",
+        "price": 250,
+        "discount":8 ,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Mouse",
+        "price": 150,
+        "discount": 10,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Gafas",
+        "price": 80,
+        "discount": 15,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Teclado",
+        "price": 180,
+        "discount": 20,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Monitor",
+        "price": 500,
+        "discount": 20,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Bolso",
+        "price": 120,
+        "discount": 10,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Proyector",
+        "price": 100,
+        "discount": 25,
+        "url": "https://picsum.photos/180"
+    }
+    
+]
